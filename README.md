@@ -4,7 +4,6 @@
 
 ## Материалы
 
-- [Презентация РТК ИТ](https://docs.google.com/presentation/d/103mj4HY5RROZuUi2h-NJZQiD85NVlhYsPMlGo7w813U/edit) — схема демонстрации на Windows.
 - `student-guide.md` — задания и форма фиксации доказательств.
 - `Prepare-StudentLab.ps1` — проверка хеша, подготовка каталогов и инструментов в Windows 11.
 - `export_rcdata.py` — экспорт только ресурса RCDATA №1 из PE-файла без запуска образца.
